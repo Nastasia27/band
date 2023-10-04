@@ -8,4 +8,4 @@ Front End fully developed using HTML and CSS
 * Bootstrap
 
 #### Hosting
-GitHub https://watchit-nine.vercel.app/](https://nastasia27.github.io/band/)https://nastasia27.github.io/band/
+GitHub https://nastasia27.github.io/band/
